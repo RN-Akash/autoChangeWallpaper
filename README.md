@@ -77,7 +77,7 @@ launchctl load ~/Library/LaunchAgents/com.daily.wallpaper.plist
 
 ```
 
-[!SUCCESS]
+> [!NOTE]
 > 🎉 Done!
 > Wallpaper changes daily at 9:00 AM and on login.
 
@@ -137,9 +137,9 @@ C:\DailyWallpapers
 
 Click Finish.
 
-[!SUCCESS]
-🎉 Done!
-Wallpaper will change daily automatically.
+> [!NOTE]
+> 🎉 Done!
+> Wallpaper will change daily automatically.
 
 # 🔍 Troubleshooting
 macOS:
