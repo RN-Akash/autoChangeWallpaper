@@ -66,8 +66,8 @@ Paste:
 
 ```
 > [!NOTE]
-> ⚠ Replace YOUR_USERNAME
-> Save
+> ⚠ Replace YOUR_USERNAME </br>
+> Save</br>
 > CTRL + X → Y → Enter
 
 Load it:
