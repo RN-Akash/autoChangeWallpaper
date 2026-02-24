@@ -65,8 +65,9 @@ Paste:
 </plist>
 
 ```
-[!NOTE]
+> [!NOTE]
 > ⚠ Replace YOUR_USERNAME
+
 > Save:
 > CTRL + X → Y → Enter
 
