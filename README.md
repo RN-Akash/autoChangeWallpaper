@@ -78,7 +78,7 @@ launchctl load ~/Library/LaunchAgents/com.daily.wallpaper.plist
 ```
 
 > [!NOTE]
-> 🎉 Done!
+> 🎉 Done! </br>
 > Wallpaper changes daily at 9:00 AM and on login.
 
 
@@ -138,7 +138,7 @@ C:\DailyWallpapers
 Click Finish.
 
 > [!NOTE]
-> 🎉 Done!
+> 🎉 Done!</br>
 > Wallpaper will change daily automatically.
 
 # 🔍 Troubleshooting
